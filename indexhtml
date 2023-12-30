@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jayaans Mishra</title>
+</head>
+<style>
+ #heading{
+    color: aqua;
+    text-align: center;
+    font-size: 24px;
+ }
+ #h2{
+    color: aqua;
+    text-align: center;
+    font-size: 24px;
+ }
+ #easy{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+ }
+</style>
+<body background="pexels-rafael-guajardo-604684.jpg">
+    <div id="heading">
+        <h1>Welcome to my Website!</h1>
+    </div>
+    <div id="h2">
+        <h2>I am a student of SFS. </h2>
+    </div>
+    <div >
+        <img id="easy" src="20231230_183354.jpg">
+    </div>
+    <div style="color: aqua; text-align: center;">
+        <h3>My Self</h3> <h3 style="font-size: 24px;">Jayaans Mishra</h3>
+        <h3>This is my personal website<h3>
+    </div>
+    <div><a style="color: aqua; text-align:right; font-size: 17px;" href="adress.html">Link to My Adress </a></div>
+</body>
+</html>
